@@ -1,0 +1,13 @@
+{
+    "minimum-stability":"dev",
+    "repositories": [
+      {
+        "type": "git",
+        "url": "https://github.com/sc0vu/web3.php.git"
+      }
+    ],
+    "require": {
+        "sc0vu/web3.php": "dev-master",
+        "guzzlehttp/guzzle": "^6.0"
+    }
+  }
